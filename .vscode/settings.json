@@ -1,4 +1,6 @@
 {
     "editor.defaultFormatter": "ms-vscode.powershell",
-    "powershell.powerShellDefaultVersion": "Windows PowerShell"
+    "powershell.powerShellDefaultVersion": "Windows PowerShell",
+    "powerShellUniversal.samplesDirectory": "C:\\Users\\JohnLoveall_bo4l08d\\OneDrive - Lovealls\\Documents\\Repositories\\Github\\Powershell_Universal_Samples",
+    "powerShellUniversal.appToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiYWRtaW4iLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9oYXNoIjoiN2ZhNmYxZTktNjQzZi00ODNlLWIzNzItMTdkNmQyN2ZiMzdhIiwic3ViIjoiUG93ZXJTaGVsbFVuaXZlcnNhbCIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vd3MvMjAwOC8wNi9pZGVudGl0eS9jbGFpbXMvcm9sZSI6IkFkbWluaXN0cmF0b3IiLCJuYmYiOjE3MTM5MTA1MzYsImV4cCI6MTc0NTQ0NjUzNiwiaXNzIjoiSXJvbm1hblNvZnR3YXJlIiwiYXVkIjoiUG93ZXJTaGVsbFVuaXZlcnNhbCJ9.hSCQIujhh_-GGauuFLdDoVNtLlFGpRKi40KJH-J_zVY"
 }
