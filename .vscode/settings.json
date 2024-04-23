@@ -1,0 +1,4 @@
+{
+    "editor.defaultFormatter": "ms-vscode.powershell",
+    "powershell.powerShellDefaultVersion": "Windows PowerShell"
+}
